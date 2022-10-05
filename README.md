@@ -2,6 +2,8 @@
 
 ## Projeto de análise de desempenho de empresas de jogos eletrônicos utilizando as bibliotecas matplot.lib e pandas
 
+ [Link para a tabela usada no projeto](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
 ## Region:earth_americas::earth_asia:  x  Publisher:office:
 
 - **NA UE Others**- seguem praticamente o mesmo padrão nas 5 primeiras colocações, começando a alterar a partir da 6 colocações, especialmente algumas empresas japonesas na américa do norte, em destaque a Tecmo Koei e a Square Enix.
